@@ -1,0 +1,27 @@
+*{
+    box-sizing: content-box;
+    background-color: tomato;
+}
+.ozichi{
+    background-color: aqua;
+    color: rgb(46, 100, 148);
+    width: 500px;
+    height:200px;
+    border-radius: 10px;
+    justify-content: left;
+}
+input{
+    border-radius: 15px;
+    width: 95%;
+    margin: 10px 10px 10px 10px;
+    color: whitesmoke;
+    border: 1.5px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.image{ 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
